@@ -1,0 +1,7 @@
+Hello,
+This is a text file.
+You can change me.
+Add some lines of PHP at line 10.
+
+Good Luck,
+Roman.
